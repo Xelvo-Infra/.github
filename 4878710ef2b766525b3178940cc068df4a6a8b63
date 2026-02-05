@@ -1,0 +1,23 @@
+profile/README.md
+  d5810ca3e26020f1 5-6,8-9,11-16,18-23,26-27,30,32,34,36,38,40,42,44,46-48,50,52,54,56-58,60,62,67-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "4878710ef2b766525b3178940cc068df4a6a8b63",
+  "prompts": {
+    "d5810ca3e26020f1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_3da5a438affecTKFGjSDhf9FTS",
+        "model": "anthropic/claude-opus-4-5"
+      },
+      "human_author": "dev-dami <damiade5banjo@gmail.com>",
+      "messages": [],
+      "total_additions": 124,
+      "total_deletions": 98,
+      "accepted_lines": 58,
+      "overriden_lines": 0
+    }
+  }
+}
