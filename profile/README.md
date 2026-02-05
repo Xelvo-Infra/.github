@@ -2,45 +2,71 @@
   <img src="https://raw.githubusercontent.com/Xelvo-Infra/.github/refs/heads/main/profile/img/xelvo-banner.png" alt="Xelvo" width="100%" />
 </p>
 
+<br>
+
 <p align="center">
-  <strong>What happens when AI agents act on their own?</strong>
+  <strong>The infrastructure layer for AI agents on Kubernetes.</strong>
 </p>
 
+<p align="center">
+  <sub>Deploy agents. Connect tools. Govern operations. Monitor everything.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  🌐 <a href="#">Website</a>&nbsp;&nbsp;&nbsp;
+  📖 <a href="#">Docs</a>&nbsp;&nbsp;&nbsp;
+  💬 <a href="#">Discord</a>&nbsp;&nbsp;&nbsp;
+  🐦 <a href="https://x.com/xelvo_infra">Twitter</a>&nbsp;&nbsp;&nbsp;
+  📸 <a href="https://www.instagram.com/xelvo.infra/">Instagram</a>&nbsp;&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/company/xelvo/">LinkedIn</a>
+</p>
+
+<br>
+
 ---
 
-### The problem nobody's solving
+<br>
 
-AI agents are no longer experiments. They triage tickets, manage infrastructure, write and execute code, make decisions with real consequences. The tooling has kept up — orchestration frameworks, model routers, function-calling protocols, all production-ready.
+Agents are moving into production — managing infrastructure, triaging incidents, making real decisions. The tooling to build them exists. The infrastructure to run them safely doesn't.
 
-But something is missing.
+We're building it.
 
-**Nobody is asking: who decides what an agent is allowed to do?**
+<br>
 
-There's no infrastructure for trust. No way to observe agent decisions at scale. No way to see what an agent *would* do before it does it. No policy layer between "the agent wants to call this tool" and "the tool gets called."
+---
 
-Every agent in production today runs with implicit full trust. If it has access, it will use it. There is no middle ground between *on* and *off.*
+<br>
 
-### The gap
+### 📦&nbsp; Repositories
 
-Kubernetes gave us declarative infrastructure. GitOps gave us auditable deployments. Service meshes gave us observable traffic.
+<br>
 
-AI agents have none of this.
+<a href="https://github.com/Xelvo-Infra/xelvo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xelvo-Infra&repo=xelvo&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
 
-They run as black boxes. Their decisions are logged inconsistently — or not at all. There's no separation between what an agent *can* do and what it *should* do. When something goes wrong, you find out after the fact.
+<br><br>
 
-This isn't a tooling problem. It's an infrastructure problem.
+### 👥&nbsp; Team
 
-### What we believe
+<br>
 
-Agents need a governance layer the same way services needed a mesh, the same way deployments needed a pipeline.
+<a href="https://github.com/dev-dami">
+  <img src="https://github.com/dev-dami.png" width="60" height="60" style="border-radius:50%" alt="dev-dami" />
+</a>
 
-Not a wrapper. Not a framework. Not another YAML abstraction. **Infrastructure** — something that sits between agents and the world. Something that can observe, simulate, and enforce. Something that lives where agents are going to run.
+&nbsp;&nbsp;**[@dev-dami](https://github.com/dev-dami)** — CEO & CTO
 
-We're building this in the open. The code will speak for itself.
+<br><br>
 
 ---
 
 <p align="center">
-  <sub>Go · Kubernetes-native · MCP protocol · Open source</sub><br><br>
-  <sub>Star or watch to follow along →</sub>
+  <br>
+  <sub>Go&nbsp;&nbsp;·&nbsp;&nbsp;Kubernetes&nbsp;&nbsp;·&nbsp;&nbsp;MCP&nbsp;&nbsp;·&nbsp;&nbsp;Open Source</sub>
+  <br><br>
+  <a href="https://github.com/Xelvo-Infra/xelvo">⭐&nbsp; Star the repo</a>
+  <br><br>
 </p>
