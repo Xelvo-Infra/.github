@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/xelvo/xelvo/main/img/xelvo-banner.png" alt="Xelvo" width="100%" />
-    <img src="https://raw.githubusercontent.com/xelvo/xelvo/main/img/logo.png" alt="Xelvo Logo" width="100%" />
+    <img src="hhttps://raw.githubusercontent.com/Xelvo-Infra/.github/refs/heads/main/profile/img/xelvo-banner.png" alt="Xelvo" width="100%" />
+    <img src="https://raw.githubusercontent.com/Xelvo-Infra/.github/refs/heads/main/profile/img/logo.jpg" alt="Xelvo Logo" width="100%" />
 </p>
 
 <p align="center">
